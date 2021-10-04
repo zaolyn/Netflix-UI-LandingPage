@@ -469,16 +469,16 @@ i {
     background: black;
   }
   .from input {
-    width: 95%;
+    width: 90%;
   }
   .from .btn {
-    width: 95%;
+    width: 90%;
   }
   .from h1 {
     padding-left: 20px;
   }
   .else {
-    width: 95%;
+    width: 90%;
   }
 }
 @media (max-width: 247px) and (min-width: 200px) {
